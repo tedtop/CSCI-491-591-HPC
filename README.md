@@ -1,3 +1,2 @@
-# CSCI-491-591
+# CSCI-491 / CSCI-591
 High Performance Computing
-hey!
