@@ -41,6 +41,6 @@
 	},
 		
 
-	"postCreateCommand": "pip install matplotlib graphviz torchviz rasterio scipy numpy && pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu129"
+	"postCreateCommand": "pip install mpich mpi4py requests aiohttp asyncio matplotlib graphviz torchviz rasterio scipy numpy numba dask networkx dask && pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu129"
 	
 }
